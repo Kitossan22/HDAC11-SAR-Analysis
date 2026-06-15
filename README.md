@@ -15,7 +15,7 @@ series developed at the University of Copenhagen:
 
 - **Series D** — Bis-aryl sulfate scaffold (12 compounds), Tobias N. Hansen et al., *JACS Au* 2024
 - **EVB Sulfamate series** — Sulfamate ZBG with benzylamine cap (5 compounds), from 
-Balatsos, E. MSc Thesis, KU 2025 (co-supervised by M. San Segundo Eizaguirre & Christian A. Olsen)
+Balatsos, E. MSc Thesis, KU 2025 (supervised by Christian A. Olsen and co-supervised by Marcos San Segundo Eizaguirre)
 
 **Key question:** Do the same physicochemical trends drive HDAC11 potency across two 
 structurally distinct scaffolds sharing the same zinc-binding group strategy?
@@ -95,7 +95,7 @@ re-run the fetch cell after a few minutes.
 
 ## References
 
-1. Reyes-Fung, B. et al. *JACS Au* 2024. DOI: 10.1021/jacsau.4c00042
+1. Tobias N. Hansen et al. *JACS Au* 2024. DOI: 10.1021/jacsau.4c00042
 2. Balatsos, E. MSc Thesis, University of Copenhagen, 2025
 3. Wishart, D. et al. ChEMBL: a large-scale bioactivity database for drug discovery. 
 *Nucleic Acids Res.* 2012, 40, D1100–D1107
